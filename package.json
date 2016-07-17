@@ -11,7 +11,6 @@
     "gulp-sass": "^2.2.0",
     "gulp-watch": "^4.3.5",
     "node-bourbon": "^4.2.3",
-    "node-neat": "^1.7.2",
-    "slick-carousel": "^1.5.9"
+    "node-neat": "^1.7.2"
   }
 }
